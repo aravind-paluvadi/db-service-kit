@@ -1,0 +1,4 @@
+psycopg2
+tenacity
+pytest
+pytest-mock
