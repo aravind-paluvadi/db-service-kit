@@ -35,7 +35,10 @@ db-service-kit/
       │     │      └── __init__.py  # Initialize the unit_tests subpackage
       │     │ 
       │     └── __init__.py   # Initialize the tests package
-      │   
+      │
+      ├──readme_resources
+      │     └── README.png    # Picture for the Read me file   
+      │
       ├── .gitignore    # Git ignore file to exclude unnecessary files from version control
       ├── README.md     # README file for project documentation
       └── requirements.txt  # File to list project dependencies
